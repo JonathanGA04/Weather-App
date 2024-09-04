@@ -15,4 +15,5 @@ Respuesta rápida y actualizaciones en tiempo real.
 1.-Abre la aplicación en tu navegador.<br>
 2.-Introduce el nombre de la ciudad en el campo de búsqueda y presiona Enter o haz clic en el botón de búsqueda.<br>
 3.-Visualiza el clima actual y el pronóstico del tiempo para la ciudad seleccionada.
+
 ![alt text](<weather app.jpg>)
