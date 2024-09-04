@@ -12,7 +12,7 @@ Respuesta rápida y actualizaciones en tiempo real.
 <h3>HTML5:</h3> Estructura y contenido de la aplicación.
 <h3>CSS3:</h3> Estilo y diseño responsivo.
 <h3>JavaScript:</h3> Lógica de la aplicación y manipulación del DOM.git
-<h3>API de OpenWeatherMap:</h3> Obtención de datos meteorológicos.
+<h4>API de OpenWeatherMap:</h4> Obtención de datos meteorológicos.
 
 <h1>Uso.</h1><br>
 1.-Abre la aplicación en tu navegador.<br>
